@@ -1,0 +1,39 @@
+{
+  "bookmarks": [
+    {
+      "label": "Edit ~/bookmarks.json",
+      "url": "WEBSITE_URL"
+    },
+    {
+      "label": "A website",
+      "url": "WEBSITE_URL"
+    },
+    {
+      "label": "Another website",
+      "url": "WEBSITE_URL"
+    },
+    {
+      "label": "Saucy Folder",
+      "sub": [
+        {
+          "label": "A Stinker Folder",
+          "sub": [
+            {
+              "label": "Alan",
+              "sub": [
+                {
+                  "label": "Causal entertainment",
+                  "url": "https://www.youtube.com/watch?v=xplEPT5I39E"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "At the bottom",
+      "url": "WEBSITE_URL"
+    }
+  ]
+}
