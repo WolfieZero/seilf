@@ -1,7 +1,7 @@
 {
   "name": "seilf",
   "productName": "Seilf",
-  "version": "0.1.1",
+  "version": "0.1.0",
   "description": "Bookmark manager for your OS tray",
   "main": ".vite/build/main.js",
   "scripts": {
