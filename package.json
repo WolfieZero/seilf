@@ -3,7 +3,9 @@
   "productName": "Seilf",
   "version": "0.1.0",
   "description": "Bookmark manager for your OS tray",
-  "main": ".vite/build/main.js",
+  "main": ".vite/build/main.cjs",
+  "type": "module",
+  "node": ">=18",
   "scripts": {
     "start": "electron-forge start",
     "package": "electron-forge package",
